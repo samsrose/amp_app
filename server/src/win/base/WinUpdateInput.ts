@@ -1,0 +1,2 @@
+class WinUpdateInput {}
+export { WinUpdateInput };

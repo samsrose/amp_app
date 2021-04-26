@@ -1,0 +1,2 @@
+class RankingCreateInput {}
+export { RankingCreateInput };

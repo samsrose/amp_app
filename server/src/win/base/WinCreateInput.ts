@@ -1,0 +1,2 @@
+class WinCreateInput {}
+export { WinCreateInput };
