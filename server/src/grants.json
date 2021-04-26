@@ -1,0 +1,722 @@
+[
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sport",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Sport",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Sport",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Sport",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sport",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Sport",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Sport",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Sport",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sport",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Sport",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Sport",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Sport",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sport",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Sport",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Sport",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Sport",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Sport",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Sport",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Sport",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Sport",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Win",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Win",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Win",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Win",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Win",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Win",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Win",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Win",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Win",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Win",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Win",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Win",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Win",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Win",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Win",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Win",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Win",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Win",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Win",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Win",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Loss",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Loss",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Loss",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Loss",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Loss",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Loss",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Loss",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Loss",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Loss",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Loss",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Loss",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Loss",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Loss",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Loss",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Loss",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Loss",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Loss",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Loss",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Loss",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Loss",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Team",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Team",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Team",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Team",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Team",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Team",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Team",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Team",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Team",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Team",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Team",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Team",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Team",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Team",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Team",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Team",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Team",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Team",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Team",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Team",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Ranking",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Ranking",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Ranking",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Ranking",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Ranking",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Ranking",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Ranking",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Ranking",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Ranking",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Ranking",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Ranking",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Ranking",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Ranking",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Ranking",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Ranking",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Ranking",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Ranking",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admins",
+    "resource": "Ranking",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "teams",
+    "resource": "Ranking",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "players",
+    "resource": "Ranking",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]

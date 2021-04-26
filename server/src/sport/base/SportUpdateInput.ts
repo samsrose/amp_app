@@ -1,0 +1,2 @@
+class SportUpdateInput {}
+export { SportUpdateInput };
